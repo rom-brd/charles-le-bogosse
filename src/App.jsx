@@ -6,6 +6,13 @@ function App() {
   return (
     <div className="container">
       <div className="card">
+        <div className="charles-image-container">
+          <img 
+            src="https://i.ibb.co/jvXYyqjK/1558338841597.jpg" 
+            alt="Charles Blot - Le Bogosse" 
+            className="charles-image"
+          />
+        </div>
         <h1>👑 Charles le Bogosse</h1>
         <p className="subtitle">Le boss absolu qui gère tout avec style 😎</p>
         
