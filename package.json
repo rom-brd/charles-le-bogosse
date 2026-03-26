@@ -1,0 +1,20 @@
+{
+  "name": "charles-le-bogosse",
+  "version": "1.0.0",
+  "description": "Une page simple en React - Charles le boss 😎",
+  "type": "module",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "vite build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^5.1.0"
+  }
+}
